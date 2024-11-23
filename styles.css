@@ -92,11 +92,11 @@ h1 {
   text-align: justify;
 }
 #card-wrapper {
-  height: 400px;
-  width: 600px;
+  height: 300px;
+  width: 500px;
   background-color: #150101;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
   padding: 0 50px;
   box-shadow: -3px -3px 10px #8f7000;
@@ -104,7 +104,7 @@ h1 {
 
 .my-profile-photo {
   border-radius: 20%;
-  max-width: 300px;
-  height: 300px;
+  max-width: 200px;
+  height: 200px;
   box-shadow: -5px -5px 5px #fae6a1;
 }
